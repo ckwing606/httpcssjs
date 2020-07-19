@@ -1,3 +1,3 @@
 console.log("log1");
 
-console.log("change thiings from local.")
+console.log("change things from local.")
